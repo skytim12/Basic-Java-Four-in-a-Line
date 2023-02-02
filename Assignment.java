@@ -1,8 +1,7 @@
 /*
    Filename:	Assignment.java
-   Programmer:	Tsang Shun Tin
-   Class:       IT114105 - 1C
-   Student Number: 220014863
+   Programmer:	Tsang XXX XXX
+   Student Number: 22XXXXXX63
    Description:	The Four-in-a-Line game will be run in console mode.  At the beginning, 
                 the program uses '0' to represent the space of the grid and shows a seven-column,
                 six-row grid.  
